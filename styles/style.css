@@ -29,6 +29,7 @@ html, body {
 body {
     background-color: var(--color-dark);
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
@@ -43,8 +44,8 @@ body, input, button, textarea {
     border-radius: 5%;
     text-align: center;
     border: 5px solid var(--color-border-base);
-    padding: 40px;
-    height: 450px;
+    padding: 30px;
+    height: 425px;
     width: 300px;
     max-width: 300px;
 }
@@ -80,7 +81,7 @@ body, input, button, textarea {
     padding: 5px;        
     width: 25px;
     height: 25px;
-    background-size: 88% 88%; /* ou 'contain' */
+    background-size: 93% 93%; /* ou 'contain' */
     background-image: url("/images/icons/spotify.png");
     background-position: center;
 }
