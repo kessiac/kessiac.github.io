@@ -96,6 +96,16 @@ body, input, button, textarea {
     background-position: center;
 }
 
+#profile {
+    display: inline-block;        
+    width: 160px;
+    height: 160px;
+    border: 2px solid var(--color-border-base);
+    border-radius: 50%;
+    background-size: 100% 100%;
+    background-position: center;
+
+}
 
 .bottom{
     position: center; 
