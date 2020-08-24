@@ -113,7 +113,7 @@ body, input, button, textarea {
     background-repeat: no-repeat;
 }
 
-#insta-button{
+#tt-button{
     display: inline-block;            
     border: 1px solid var(--color-dark);
     border-radius: 10%;
