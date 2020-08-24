@@ -58,7 +58,7 @@ body, input, button, textarea {
     width: 25px;
     height: 25px;
     background-size: 85% 85%; /* ou 'contain' */
-    background-image: url("/images/icons/linkedin.png");
+    background-image: url("https://cdn4.iconfinder.com/data/icons/materia-social-free/24/038_002_linkedin_social_network_android_material-256.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -71,7 +71,7 @@ body, input, button, textarea {
     width: 25px;
     height: 25px;
     background-size: 100% 100%; /* ou 'contain' */
-    background-image: url("/images/icons/github.png");
+    background-image: url("https://cdn1.iconfinder.com/data/icons/picons-social/57/github-256.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -84,7 +84,19 @@ body, input, button, textarea {
     width: 25px;
     height: 25px;
     background-size: 85% 85%; /* ou 'contain' */
-    background-image: url("/images/icons/spotify.png");
+    background-image: url("https://cdn2.iconfinder.com/data/icons/font-awesome/1792/spotify-256.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#face-button{
+    display: inline-block;            
+    border: 1px solid var(--color-dark);
+    border-radius: 10%;
+    padding: 5px;
+    width: 25px;
+    height: 25px;
+    background-size:85% 85%;
+    background-image: url("https://cdn3.iconfinder.com/data/icons/wpzoom-developer-icon-set/500/01-256.png");
     background-position: center;
     background-repeat: no-repeat;
 }
