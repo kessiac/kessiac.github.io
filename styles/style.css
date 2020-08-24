@@ -113,17 +113,6 @@ body, input, button, textarea {
     background-repeat: no-repeat;
 }
 
-#tt-button{
-    display: inline-block;            
-    border: 1px solid var(--color-dark);
-    border-radius: 10%;
-    padding: 5px;
-    width: 25px;
-    height: 25px;
-    background-size:85% 85%;
-    background-image: url("https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-twitter-256.png");
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 #profile {
