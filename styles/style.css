@@ -95,7 +95,6 @@ body, input, button, textarea {
     background-size: 89% 93%;
     background-image: url("/images/icons/insta.png");
     background-position: center;
-    float: center;
 }
 
 #profile {
