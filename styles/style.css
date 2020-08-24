@@ -94,6 +94,7 @@ body, input, button, textarea {
     background-size: cover;
     background-image: url("/images/icons/insta.png");
     background-position: center;
+    overflow: hidden;
 }
 
 #profile {
