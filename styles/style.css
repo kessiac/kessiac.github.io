@@ -96,7 +96,7 @@ body, input, button, textarea {
     width: 25px;
     height: 25px;
     background-size: 89% 93%;
-    background-image: url("/images/icons/instagram.png");
+    background-image: url("https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png");
     background-position: center;
     background-repeat: no-repeat;
 }
