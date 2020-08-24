@@ -83,7 +83,7 @@ body, input, button, textarea {
     padding: 5px;        
     width: 25px;
     height: 25px;
-    background-size: 93% 93%; /* ou 'contain' */
+    background-size: 85% 93%; /* ou 'contain' */
     background-image: url("/images/icons/spotify.png");
     background-position: center;
     background-repeat: no-repeat;
