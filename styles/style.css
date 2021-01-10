@@ -132,7 +132,7 @@ body, input, button, textarea {
     background-repeat: no-repeat;
 }
 
-.whats li {
+.whats ul li {
   display: inline-block;
   padding-right: 4px;
 }
