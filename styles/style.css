@@ -141,7 +141,8 @@ body, input, button, textarea {
 }
 
 .disable_underlined:hover{
-    color: var(--color-border-base);
+    font-weight: bolder;
+    text-decoration: underline;
 }
 
 .year {
