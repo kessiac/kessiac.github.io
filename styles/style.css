@@ -132,9 +132,9 @@ body, input, button, textarea {
     background-repeat: no-repeat;
 }
 
-.whats ul li {
-  display: inline-block;
-  padding-right: 4px;
+.whats li {
+    display: inline-block;
+    list-style-type: none
 }
 
 #profile {
