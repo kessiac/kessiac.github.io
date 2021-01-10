@@ -23,7 +23,7 @@
 }
 
 html, body {
-    height: 100vh;
+    height: 90vh;
 }
 
 body {
@@ -32,6 +32,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    margin: 35px;
 }
 
 body, input, button, textarea {
