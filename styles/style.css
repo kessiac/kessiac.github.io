@@ -140,6 +140,10 @@ body, input, button, textarea {
     color: var(--color-dark);
 }
 
+p.year {
+    margin: 70px;
+}
+
 .year {
     line-height: 0;
 }
