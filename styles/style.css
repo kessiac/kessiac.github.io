@@ -135,6 +135,10 @@ body, input, button, textarea {
     text-align: center;
 }
 
+.disable_underlined:hover{
+    color: black;
+}
+
 .disable_underlined{
     text-decoration: none;
     color: var(--color-dark);
