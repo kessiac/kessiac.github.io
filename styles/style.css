@@ -135,21 +135,21 @@ body, input, button, textarea {
     text-align: center;
 }
 
-.disable_underlined:hover{
-    color: black;
-}
-
 .disable_underlined{
     text-decoration: none;
     color: var(--color-dark);
 }
 
-p.year {
-    margin: 42px;
+.disable_underlined:hover{
+    color: var(--color-border-base);
 }
 
 .year {
     line-height: 0;
+}
+
+p.year {
+    margin: 42px;
 }
 
 .line{
