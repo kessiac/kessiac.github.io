@@ -47,8 +47,7 @@ body, input, button, textarea {
     border: 5px solid var(--color-border-base);
     padding: 30px;
     height: 425px;
-    width: 300px;
-    max-width: 300px;
+    width: 250px;
 }
 
 #linkedin-button{
@@ -116,8 +115,8 @@ body, input, button, textarea {
 
 #profile {
     display: inline-block;        
-    width: 160px;
-    height: 160px;
+    width: 130px;
+    height: 130px;
     border: 2px solid var(--color-border-base);
     border-radius: 50%;
     background-size: 100% 100%;
