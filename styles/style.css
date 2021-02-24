@@ -48,6 +48,7 @@ body, input, button, textarea {
     padding: 30px;
     height: 425px;
     width: 250px;
+    margin-top:150px;
 }
 
 #linkedin-button{
