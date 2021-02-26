@@ -81,7 +81,7 @@ body, input, button, textarea {
     background-repeat: no-repeat;
 }
 
-#spotify-button {
+#be-button {
     display: inline-block;            
     border: 1px solid var(--color-dark);
     border-radius: 10%;
@@ -90,7 +90,7 @@ body, input, button, textarea {
     height: 25px;
     margin-top: 6px;
     background-size: 85% 85%; /* ou 'contain' */
-    background-image: url("https://cdn2.iconfinder.com/data/icons/font-awesome/1792/spotify-256.png");
+    background-image: url("https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Behance-Outline-256.png");
     background-position: center;
     background-repeat: no-repeat;
 }
