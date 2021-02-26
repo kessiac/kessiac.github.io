@@ -89,7 +89,7 @@ body, input, button, textarea {
     width: 25px;
     height: 25px;
     margin-top: 6px;
-    background-size: 85% 85%; /* ou 'contain' */
+    background-size: 86% 86%; /* ou 'contain' */
     background-image: url("https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Behance-Outline-256.png");
     background-position: center;
     background-repeat: no-repeat;
