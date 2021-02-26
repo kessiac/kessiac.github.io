@@ -89,7 +89,7 @@ body, input, button, textarea {
     width: 25px;
     height: 25px;
     margin-top: 6px;
-    background-size: 100% 100%; /* ou 'contain' */
+    background-size: 88% 88%; /* ou 'contain' */
     background-image: url("https://cdn3.iconfinder.com/data/icons/picons-social/57/77-behance-256.png");
     background-position: center;
     background-repeat: no-repeat;
