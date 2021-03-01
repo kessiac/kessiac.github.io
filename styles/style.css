@@ -47,7 +47,7 @@ body, input, button, textarea {
     background-color: var(--color-background);
     border-radius: 5%;
     text-align: center;
-    border: 5px solid var(--color-border-base);
+    border: 5px solid #4f4f4f;
     padding: 30px;
     height: 425px;
     width: 250px;
